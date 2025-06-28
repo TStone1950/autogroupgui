@@ -18,6 +18,8 @@ This GUI allows you to control group creation, player management, role assignmen
 
 1. **Install the `MQ2AutoGroup` plugin** via RedGuides or your preferred plugin manager.
 2. Place `autogroupgui.lua` into your `MacroQuest/lua` directory.
+      will need to rename 'init.lua' to 'autogrougui.lua', alternatly you can download full zip and rename the folder
+      'autogroupgui-main' to 'AutogrouGui'
 3. In-game or in your MQ2 window, run:
    ```
    /lua run autogroupgui
